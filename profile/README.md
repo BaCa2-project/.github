@@ -1,4 +1,4 @@
-# <img src="baca2_logo.png" alt="BaCa2 Logo" width="200"/>
+# <img src="https://github.com/BaCa2-project/.github/blob/main/profile/baca2_logo.png" alt="BaCa2 Logo" width="200"/>
 
 Welcome to the BaCa2 Project - a collaborative initiative aimed at building a comprehensive online system for creating programming tasks and automating the validation of submitted solutions. Our goal is to establish a robust platform that facilitates deep customization of testing and judging methods used to evaluate submitted solutions.
 

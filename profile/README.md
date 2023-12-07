@@ -8,9 +8,9 @@ Currently developed for the [Institute of Computer Science and Mathematics](http
 
 The BaCa2 Project is structured into three major components, each housed in a separate repository:
 
-### 🌐 [BaCa2 Website](https://github.com/BaCa2-project/BaCa2)
+### 🌐 [BaCa2 Web Application](https://github.com/BaCa2-project/BaCa2)
 
-BaCa2 website, powered by the Django framework, serves as the online platform for managing courses, creating tasks, and submitting solutions. The custom database routing module dynamically creates separate databases for new courses to prevent table bloating and facilitates routing between them. Integration with the USOS API will enable automatic assignment of users registered through the university system to appropriate courses.
+BaCa2 Web Application, powered by the Django framework, serves as the online platform for managing courses, creating tasks, and submitting solutions. The custom database routing module dynamically creates separate databases for new courses to prevent table bloating and facilitates routing between them. Integration with the USOS API will enable automatic assignment of users registered through the university system to appropriate courses.
 
 ### 📦 [BaCa2 Package Manager](https://github.com/BaCa2-project/BaCa2-package-manager)
 
@@ -33,21 +33,21 @@ The project is currently being developed by 3 students of Computer Science at th
 </a>
 
 **`Bartosz Deptuła`**<br>
-Responsible mainly for the package manager and broker modules, as well as parts of the BaCa2 website backend.
+Mainly responsible for the package manager and broker modules, as well as parts of the web application backend.
 
 <a href="https://github.com/Matthew-1981">
   <img src="https://avatars.githubusercontent.com/u/89481714?v=4" width="50" height="50" align="left" alt="mateusz-kadula-pfp"/>
 </a>
 
 **`Mateusz Kadula`**<br>
-Responsible for broker-website communication and implementing customizable solution judging workflows.
+Responsible for broker-web application communication and implementing customizable solution judging workflows.
 
 <a href="https://github.com/k-kalita">
   <img src="https://avatars.githubusercontent.com/u/116686132?v=4" width="50" height="50" align="left" alt="krzysztof-kalita-pfp"/>
 </a>
 
 **`Krzysztof Kalita`**<br>
-Responsible for the BaCa2 website backend and frontend.
+Responsible for the BaCa2 web application backend and frontend.
 
 ## License
 

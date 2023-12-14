@@ -33,7 +33,7 @@ The project is currently being developed by 3 students of Computer Science at th
 </a>
 
 **`Bartosz Deptuła`**<br>
-Mainly responsible for the package manager and broker modules, as well as parts of the web application backend.
+Project leader, mainly responsible for the package manager and broker modules, as well as crucial parts of the web application backend.
 
 <a href="https://github.com/Matthew-1981">
   <img src="https://avatars.githubusercontent.com/u/89481714?v=4" width="50" height="50" align="left" alt="mateusz-kadula-pfp"/>
